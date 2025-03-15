@@ -1,0 +1,26 @@
+[
+  {
+    "seasonName": "Spring",
+    "isCurrent": false,
+    "time": "Mar 3, 2025, 4:36 PM",
+    "countdown": "Starts in 1d 2h 57m 25s"
+  },
+  {
+    "seasonName": "Summer",
+    "isCurrent": true,
+    "time": "Mar 2, 2025, 9:24 PM",
+    "countdown": "Ends in 7h 45m 25s"
+  },
+  {
+    "seasonName": "Autumn",
+    "isCurrent": false,
+    "time": "Mar 2, 2025, 9:24 PM",
+    "countdown": "Starts in 7h 45m 25s"
+  },
+  {
+    "seasonName": "Winter",
+    "isCurrent": false,
+    "time": "Mar 3, 2025, 7:00 AM",
+    "countdown": "Starts in 17h 21m 25s"
+  }
+]
