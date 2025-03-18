@@ -94,4 +94,3 @@ export async function CaclLevel() {
   
   client.login(token)
 }
-CaclLevel();
