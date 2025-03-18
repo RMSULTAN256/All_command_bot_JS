@@ -1,5 +1,5 @@
 import { Client, GatewayIntentBits } from 'discord.js';
-import config from '../data/config.json' assert { type: 'json' };
+import config from '../data/config.json' with { type: 'json' };
 
 const { token, channel2: channelID2 } = config;
 
