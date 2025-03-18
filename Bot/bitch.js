@@ -2,7 +2,7 @@ import { Client, IntentsBitField, EmbedBuilder } from 'discord.js';
 import fs from 'fs';
 import config from '../data/config.json' assert { type: 'json' };
 
-const { token, channel: channelId, channel2: channelId2 } = config; // Rename channel to channelId to avoid confusion
+const { token, channel: channelId, channel2: channelId2 } = config;
 
 const client = new Client({
     intents: [

@@ -1,6 +1,6 @@
 import { Client, GatewayIntentBits, EmbedBuilder } from 'discord.js';
 import { translate } from '@vitalets/google-translate-api';
-import config from '../data/config.json' assert { type: "json" };import { getReadableAsTypedArray } from 'puppeteer';
+import config from '../data/config.json' with { type: "json" };
  const { token } = config;
 
 const client = new Client({
