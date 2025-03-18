@@ -28,4 +28,6 @@ jobs:
     - name: Install depedencie
       run: npm install
     - name: Run application
-      run: node index.js
+      run: node gemini.js
+    - name: Run calculation fish
+      run: node .\Bot\Interaction.js
