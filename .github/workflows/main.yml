@@ -30,4 +30,4 @@ jobs:
     - name: Run application
       run: node gemini.js
     - name: Run calculation fish
-      run: node .\Bot\Interaction.js
+      run: node \Bot\Interaction.js
