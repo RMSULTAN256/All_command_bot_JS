@@ -62,3 +62,5 @@ export async function app_ai() {
 
     client.login(token);
 }
+
+app_ai();
