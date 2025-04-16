@@ -26,10 +26,8 @@ jobs:
       with:
         node-version: '20'
 
-    - name: Install depedencie
+    - name: install dependencies
       run: npm install
-    - name: Run application
-      run: node ./Bot/gemini.js
-    - name: Run calculation fish
-      run: node ./Bot/Interaction.js
+    - name: run
+      run: npm run
         

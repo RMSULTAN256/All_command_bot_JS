@@ -1,13 +1,13 @@
 node_modules
-python only
+pyth
 ahk
 test
-Web
 .pytest_cache
-.github
 calc.js
 test.js
 trans.js
 Status.js
 infomember.js
 control.py
+.git
+Web
