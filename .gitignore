@@ -1,7 +1,7 @@
 node_modules
-pyth
 ahk
 test
+pyth
 .pytest_cache
 calc.js
 test.js

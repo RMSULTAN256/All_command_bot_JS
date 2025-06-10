@@ -1,0 +1,48 @@
+{
+  "gearStock": [
+    {
+      "imgSrc": "/images/Watering-Can.png",
+      "name": "Watering Can x2",
+      "size": "x2"
+    },
+    {
+      "imgSrc": "/images/Trowel.png",
+      "name": "Trowel x1",
+      "size": "x1"
+    }
+  ],
+  "eggStock": [
+    {
+      "imgSrc": "/images/Common-Egg.png",
+      "name": "Common Egg x1",
+      "size": "x1"
+    }
+  ],
+  "seedStock": [
+    {
+      "imgSrc": "/images/Carrot.png",
+      "name": "Carrot x11",
+      "size": "x11"
+    },
+    {
+      "imgSrc": "/images/Strawberry.png",
+      "name": "Strawberry x6",
+      "size": "x6"
+    },
+    {
+      "imgSrc": "/images/Blueberry.png",
+      "name": "Blueberry x3",
+      "size": "x3"
+    },
+    {
+      "imgSrc": "/images/Tomato.png",
+      "name": "Tomato x1",
+      "size": "x1"
+    },
+    {
+      "imgSrc": "/images/Pumpkin.png",
+      "name": "Pumpkin x1",
+      "size": "x1"
+    }
+  ]
+}
